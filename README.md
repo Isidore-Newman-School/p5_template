@@ -8,11 +8,11 @@ Make sure you've installed a text editor (Atom is recommended) and Node.js. Also
 
   Windows:
     
-    `npm install -g http-server` 
+    npm install -g http-server 
 
   or Mac/Linux: 
   
-    `sudo npm install -g http-server`
+    sudo npm install -g http-server
 
 
 ## Running Programs
