@@ -4,7 +4,12 @@ Use this template to get started on p5 projects. For the most part (or in the be
 
 ## Steps for running programs
 
-Make sure you've installed a text editor (Atom is recommended) as well as Node.js.
+Make sure you've installed a text editor (Atom is recommended) and Node.js. Also make sure you've installed http-server by typing  
+  `npm install -g http-server` (Windows)
+or Mac/Linux: 
+  `sudo npm install -g http-server`
+
+After everything is installed:
 
 #### Windows:
 
