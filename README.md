@@ -17,7 +17,7 @@ After everything is installed:
 
         http-server
 
-4. navigate to (http://localhost:8080) in your web browser to see your project
+4. navigate to [http://localhost:8080](http://localhost:8080) in your web browser to see your project
 
 ## Not updating?
 
