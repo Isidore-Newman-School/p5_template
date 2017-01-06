@@ -15,9 +15,9 @@ After everything is installed:
 2. cd into the directory where your project is
 3. type: 
 
-    http-server
+        http-server
 
-4. navigate to `http://localhost:8080` in your web browser to see your project
+4. navigate to (http://localhost:8080) in your web browser to see your project
 
 ## Not updating?
 
