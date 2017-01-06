@@ -12,7 +12,7 @@ After everything is installed:
 #### Windows:
 
 1. Open Node.js command prompt (Windows) or terminal (Mac/ Linux)
-2. cd into the directory where your project is
+2. `cd` into the directory where your project is
 3. type: 
 
         http-server
