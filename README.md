@@ -2,7 +2,7 @@
 
 Use this template to get started on p5 projects. For the most part (or in the beginning), you'll only need to edit the sketch.js file.
 
-Make sure you've downloaded Atom (text editor), Node.js, and http-server. For download installation instructions, check the [0. Getting Started](https://github.com/Isidore-Newman-School/Creative-Coding-S2017/blob/master/Classwork/gettingStarted.md) document.
+Make sure you've downloaded Atom (text editor), Node.js, and http-server. For download installation instructions, check the [0. Getting Started](https://github.com/Isidore-Newman-School/Creative-Coding-S2017/blob/master/Classwork/0_gettingStarted.md) document.
 
 
 ## Running Programs
