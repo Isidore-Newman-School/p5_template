@@ -2,17 +2,7 @@
 
 Use this template to get started on p5 projects. For the most part (or in the beginning), you'll only need to edit the sketch.js file.
 
-## 1st Time Installation
-
-Make sure you've installed a text editor (Atom is recommended) and Node.js. Also make sure you've installed http-server by typing  
-
-  Windows:
-    
-    npm install -g http-server 
-
-  or Mac/Linux: 
-  
-    sudo npm install -g http-server
+Make sure you've downloaded Atom (text editor), Node.js, and http-server. For download installation instructions, check the [0. Getting Started](https://github.com/Isidore-Newman-School/Creative-Coding-S2017/blob/master/Classwork/gettingStarted.md) document.
 
 
 ## Running Programs
@@ -21,10 +11,13 @@ After everything is installed:
 
 #### Windows:
 
-1. Open Node.js command prompt
+1. Open Node.js command prompt (Windows) or terminal (Mac/ Linux)
 2. cd into the directory where your project is
-3. type: http-server
-4. navigate to localhost:8080 in your web browser
+3. type: 
+
+    http-server
+
+4. navigate to `http://localhost:8080` in your web browser to see your project
 
 ## Not updating?
 
